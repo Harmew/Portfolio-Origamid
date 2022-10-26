@@ -18,7 +18,7 @@
   display: block;
   width: 130px;
   height: 100px;
-  background: url("../../public/svg/detalhe.svg") no-repeat center;
+  background: url("../../svg/detalhe.svg") no-repeat center;
   position: absolute;
   bottom: -50px;
   left: 20px;
@@ -104,14 +104,14 @@
   content: "";
   width: 24px;
   height: 24px;
-  background: url("../../public/svg/cursos.svg") no-repeat center center;
+  background: url("../../svg/cursos.svg") no-repeat center center;
   position: absolute;
   left: -36px;
   top: -4px;
 }
 
 .cursos h3::before {
-  background: url("../../public/svg/idiomas.svg") no-repeat center center;
+  background: url("../../svg/idiomas.svg") no-repeat center center;
 }
 
 .formacao-extra li {
